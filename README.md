@@ -9,6 +9,10 @@
 
 
 # Question 3:
+La règle:
+![question 3](https://github.com/BoJsp/Labo-19-20/assets/127385671/640f199f-eba8-4ff5-b8c7-67337962733a)
+
+Dans la VM:
 ![2023-12-15 17_50_24-Greenshot](https://github.com/BoJsp/Labo-19-20/assets/127385671/5f6aa117-fde7-47ba-848d-ff9f0955049e)
 
 
